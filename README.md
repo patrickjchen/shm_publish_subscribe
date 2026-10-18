@@ -1,6 +1,6 @@
 # shmctx — shared-memory publish/subscribe (`core-libraries/include/shm_context.h` as a standalone project)
 
-A self-contained CMake project around the ATLA monorepo's lock-free
+A self-contained CMake project around the monorepo's lock-free
 multi-producer / multi-consumer shared-memory queue, with examples, a Catch2
 unit-test suite and a fork()-based multi-process integration suite.
 

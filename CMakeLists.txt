@@ -3,7 +3,7 @@ project(shmctx VERSION 0.1.0 LANGUAGES CXX)
 
 # ---------------------------------------------------------------------------
 # shmctx: header-only lock-free multi-producer / multi-consumer SHM queue,
-# vendored from the ATLA monorepo's core-libraries/include/shm_context.h.
+# vendored from the monorepo's core-libraries/include/shm_context.h.
 # ---------------------------------------------------------------------------
 
 set(CMAKE_CXX_STANDARD 20)
